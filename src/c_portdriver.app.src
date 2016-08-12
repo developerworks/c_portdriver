@@ -1,0 +1,15 @@
+{application, c_portdriver,
+ [{description, "An example of how to write a c port driver in erlang"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, []},
+  {links, []}
+ ]}.
